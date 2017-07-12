@@ -1,0 +1,51 @@
+.crystalImage {
+		width: 200px;
+     	height: 200px;
+     	margin:10px;
+     	border: solid #e6e6e6;
+      	
+}
+
+h1 {
+	font-size: 60px;
+	color: red;
+	margin: 10px 10px 10px 20px;
+	font-family: 'Times-New Roman', cursive;
+}
+
+h3{
+	margin: 10px 10px 10px 20px;
+
+}
+
+.scorestyle{
+	font-family: sans-serif;
+	margin: 20px 10px 10px 20px;
+}
+
+#guessnumber {
+	color: red;
+	margin: 30px 0px 30px 20px;
+
+}
+
+#numberToGuess{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 35px;
+	color: red;
+	margin: 10px 10px 10px 100px;
+}
+
+#totalscore{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 35px;
+	color: red;
+	margin: 10px 10px 10px 100px;
+}
+
+p{
+	width: 30%;
+	margin: 20px;
+}
